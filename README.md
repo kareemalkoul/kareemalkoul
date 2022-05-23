@@ -8,10 +8,10 @@
 
 ## I’m interested in computer scinces and AI's domains
 
-- I'm specialization in AI
-- I’m currently learning Data Scinces and machine learning and computer vision
-- I’m looking to collaborate on sharing knowledge and informayion about Data Scince and python and some stuff worked by new technology in this world
-- How to reach me level up in AI and Data sceinces
+- I'm specialized in AI
+- I’m currently learning Data Scinces, machine learning and computer vision
+- I’m looking to collaborate on sharing knowledge and information about Data Scince and python and some stuff acheived by new technology in this world
+- How to develop in AI and Data sceinces
 
 ## Android Devloper 
 - Flutter Devloper from 2020-September.
