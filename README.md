@@ -6,16 +6,16 @@
   - 4Th year.
   - AI Domain.
 
-## I’m interested in computer scinces and AI's domains
+## I’m interested in computer sciences and AI's domains
 
-- I'm specialized in AI
-- I’m currently learning Data Scinces, machine learning and computer vision
-- I’m looking to collaborate on sharing knowledge and information about Data Scince and python and some stuff acheived by new technology in this world
-- How to develop in AI and Data sceinces
+- I'm specialized in AI.
+- I’m currently learning Data Scinces, machine learning and computer vision.
+- I’m looking to collaborate on sharing knowledge and information about Data Science and python and some stuff acheived by new technology in this world.
+- How I develop in AI and Data sciences.
 
-## Android Devloper 
-- Flutter Devloper from 2020-September.
-- start leaning jetpack Compose.
+## Android Developer 
+- Flutter Developer from 2020-September.
+- starting learning jetpack Compose.
 
 
 ## 🌐Technology & 🛠Tools
