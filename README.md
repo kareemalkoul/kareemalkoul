@@ -17,6 +17,9 @@
 - Flutter Developer from 2020-September.
 - starting learning jetpack Compose.
 
+## Backend Developer 
+- Node.js with Express from 2022.
+- MongoDB.
 
 ## 🌐Technology & 🛠Tools
 - 🌐 &nbsp;
@@ -24,6 +27,7 @@
 [![Compose]](https://developer.android.com/jetpack/compose)
 [![Dart]](https://dart.dev/)
 <br/>
+
 
 ### My Accounts:
 <p align="center">
