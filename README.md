@@ -3,7 +3,7 @@
 ## About Me
 - Studying Information Technology Engineering :
   - Damascus University.
-  - 4Th year.
+  - 5Th year.
   - AI Domain.
 
 ## I’m interested in computer sciences and AI's domains
