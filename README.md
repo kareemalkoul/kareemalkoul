@@ -14,12 +14,12 @@
 - How I develop in AI and Data sciences.
 
 ## Android Developer 
-- Flutter Developer from 2020-September.
-- starting learning jetpack Compose.
+- Flutter Developer from 2020-Sep.
+- jetpack Compose.
 
 ## Backend Developer 
-- Node.js with Express from 2022.
-- MongoDB.
+- Node.js,Expressjs and Nest.js.
+- MongoDB and MySql.
 
 ## 🌐Technology & 🛠Tools
 - 🌐 &nbsp;
