@@ -1,10 +1,9 @@
 # Hi, I’m @kareemalkoul
 
 ## About Me
-- Studying Information Technology Engineering :
+- Graduate From Information Technology Engineering as AI Engineer:
   - Damascus University.
-  - 5Th year.
-  - AI Domain.
+  - GPA 78.06%
 
 ## I’m interested in computer sciences and AI's domains
 
@@ -13,13 +12,15 @@
 - I’m looking to collaborate on sharing knowledge and information about Data Science and python and some stuff acheived by new technology in this world.
 - How I develop in AI and Data sciences.
 
-## Android Developer 
-- Flutter Developer from 2020-Sep.
-- jetpack Compose.
 
 ## Backend Developer 
 - Node.js,Expressjs and Nest.js.
-- MongoDB and MySql.
+- MongoDB, MySql and PostgresSql.
+- Prisma ORM
+
+## Android Developer 
+- Flutter Developer.
+- Anroid Native, jetpack Compose.
 
 ## 🌐Technology & 🛠Tools
 - 🌐 &nbsp;
